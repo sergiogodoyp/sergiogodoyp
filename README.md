@@ -31,4 +31,4 @@
 ---
 
 ### 📫 Cómo contactarme
-[LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Email](mailto:tuemail@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sergiogodoypereyra/)) | [Email](mailto:sergio_jgp@hotmail.com)
